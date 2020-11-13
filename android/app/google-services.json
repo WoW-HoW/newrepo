@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "609712081245",
+    "firebase_url": "https://yellow-ef133.firebaseio.com",
+    "project_id": "yellow-ef133",
+    "storage_bucket": "yellow-ef133.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609712081245:android:de5a6918900da2e3d000b4",
+        "android_client_info": {
+          "package_name": "com.example.video_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609712081245-e6en4k13ll0met8ltpfh5qu9q3lt4i06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD62d6N5CZvO_tGy08gzNc0rPW2QWVTFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609712081245-e6en4k13ll0met8ltpfh5qu9q3lt4i06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
